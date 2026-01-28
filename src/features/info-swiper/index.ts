@@ -1,0 +1,1 @@
+export { InfoSwider } from './ui';
