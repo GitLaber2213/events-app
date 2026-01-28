@@ -1,4 +1,4 @@
-# 📱 Test Task App
+# 📱 Events App
 
 ---
 
